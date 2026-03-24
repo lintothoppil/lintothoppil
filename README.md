@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0077ff&height=200&section=header&text=LINTO%20THOPPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0077ff&height=200&section=header&text=LINTO%20MATHEW%20JOY&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%3E+lintothoppil;%24+status+%3E+building+cool+things+%F0%9F%9A%80;%24+location+%3E+Kerala%2C+India+%F0%9F%8C%B4;%24+stack+%3E+C+%7C+Python+%7C+Java+%7C+Web+%7C+Shell;%24+mode+%3E+always+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%3E+lintomatthewjoy;%24+status+%3E+building+cool+things+%F0%9F%9A%80;%24+location+%3E+Kerala%2C+India+%F0%9F%8C%B4;%24+stack+%3E+C+%7C+Python+%7C+Java+%7C+Web+%7C+Shell;%24+mode+%3E+always+learning...)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 ╔══════════════════════════════════════╗
 ║         SYSTEM PROFILE               ║
 ╠══════════════════════════════════════╣
-║  USER     →  linto Mathew            ║
+║  USER     →  lintomatthewjoy         ║
 ║  ROLE     →  Developer               ║
 ║  BASE     →  Kerala, India 🌴        ║
 ║  PLAN     →  GitHub Pro ✓            ║
@@ -66,7 +66,7 @@
 
 ---
 
-## `> ssh stats@github.com -u lintothoppil`
+## `> ssh stats@github.com -u lintomatthewjoy`
 
 <div align="center">
 
