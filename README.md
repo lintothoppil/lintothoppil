@@ -16,18 +16,18 @@
 
 ## `> cat about.txt`
 
-```
-╔══════════════════════════════════════╗
-║         SYSTEM PROFILE               ║
-╠══════════════════════════════════════╣
-║  USER     →  lintomatthewjoy         ║
-║  ROLE     →  Developer               ║
-║  BASE     →  Kerala, India 🌴        ║
-║  PLAN     →  GitHub Pro ✓            ║
-║  REPOS    →  12 public               ║
-║  STATUS   →  Online and Building     ║
-╚══════════════════════════════════════╝
-```
+<div align="center">
+
+| 🖥️ KEY | 💡 VALUE |
+|:---|:---|
+| 👤 **USER** | `lintomatthewjoy` |
+| 🛠️ **ROLE** | Developer |
+| 📍 **BASE** | Kerala, India 🌴 |
+| ⭐ **PLAN** | GitHub Pro ✓ |
+| 📦 **REPOS** | 12 public |
+| 🟢 **STATUS** | Online and Building |
+
+</div>
 
 <br clear="right"/>
 
