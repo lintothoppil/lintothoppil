@@ -51,6 +51,7 @@ class Linto:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,6 +62,7 @@ class Linto:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -71,6 +73,7 @@ class Linto:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -82,8 +85,25 @@ class Linto:
 <tr>
 <td width="50%" valign="top">
 
+### 🎓 [MentAi](https://github.com/lintothoppil/mentai)
+> AI-Powered Student Management & Mentoring System — MCA Final Project
+
+- 🤖 AI risk engine — classifies students as `Stable` · `Improving` · `Declining`
+- 📊 Role-based dashboards: Student · Mentor · Subject Handler · Admin · HOD
+- 🗓️ Smart weekly study plan generation tailored to each student's weaknesses
+- 🔐 JWT auth · OTP via Google SMTP · RBAC · bcrypt password hashing
+- 🏗️ React 18 · TypeScript · Tailwind CSS · Flask · SQLAlchemy · MySQL
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌿 [CareEvo](https://github.com/lintothoppil/Careevo)
-> ✨ Next-gen AI Resume Builder & ATS Platform
+> Next-gen AI Resume Builder & ATS Platform
 
 - 🧠 Gemini AI — resume parsing & weighted ATS scoring
 - 📝 Interactive React + Vite resume builder
@@ -96,6 +116,8 @@ class Linto:
 ![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [RezumAI](https://github.com/lintothoppil/rezum_ai)
@@ -111,8 +133,6 @@ class Linto:
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛰️ [A World Away](https://github.com/syntax-in-orbit/a-world-away)
@@ -128,6 +148,8 @@ class Linto:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚨 Rescue App
@@ -142,8 +164,6 @@ class Linto:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏋️ Gym Management System
@@ -157,15 +177,14 @@ class Linto:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
 ### 🌐 [Web](https://github.com/lintothoppil/web) · [DS](https://github.com/lintothoppil/DS) · [Java](https://github.com/lintothoppil/Java) · [Python](https://github.com/lintothoppil/python)
 > Core CS fundamentals & frontend experiments
 
-- 🖥️ UI components, layouts & landing pages
-- 🗂️ Data structures & algorithms in C
-- ☕ OOP concepts in Java
-- 🐍 Python scripting & automation
+- 🖥️ UI components, layouts & landing pages · 🗂️ Data structures & algorithms in C · ☕ OOP in Java · 🐍 Python scripting
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -181,8 +200,9 @@ class Linto:
 
 | 🏆 Achievement | Details |
 |---|---|
-| 🥇 NASA Space Apps Challenge 2025 | Top 10 Nationally — PyTorch CNN, 95% accuracy |
+| 🥇 NASA Space Apps Challenge 2025 | Top 10 Nationally — PyTorch 1D CNN, 95% accuracy |
 | 🥈 UST Global SIGHT 2.0 | Finalist — National Tech Innovation Competition |
+| 🎓 MCA Final Project | MentAi — AI Student Mentoring System, SJCET Palai |
 | 📜 Intro to Data Science | Cisco |
 | 📜 Industry 4.0 & IIoT | NPTEL |
 | 📜 AI Career Acceleration | Red Hat / IPSR |
