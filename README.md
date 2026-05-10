@@ -26,7 +26,7 @@
 
 ```python
 class Linto:
-    name       = "Linto Joy Thoppil"
+    name       = "Linto Mathew Joy"
     role       = "Full-Stack Developer & AI Enthusiast"
     location   = "Kerala, India 🇮🇳"
     languages  = ["Python", "Java", "C", "JavaScript", "Shell"]
