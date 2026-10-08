@@ -135,7 +135,7 @@ class Linto:
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ [A World Away](https://github.com/syntax-in-orbit/a-world-away)
+### 🛰️ [A World Away](https://github.com/lintothoppil/A-World-Away-AI-Powered-Exoplanet-Discovery)
 > AI Exoplanet Detection — 🏆 Top 10, NASA Space Apps Challenge 2025
 
 - 🌌 95% accuracy · 3.2s/inference PyTorch 1D CNN
