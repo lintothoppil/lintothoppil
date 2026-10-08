@@ -230,7 +230,8 @@ class Linto:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lintothoppil&theme=tokyonight&no-frame=true&row=1&column=6" />
+<!-- Maintained GitHub Profile Trophy mirror (upstream load-balancing endpoint) -->
+<img src="https://trophy.ryglcloud.net/?username=lintothoppil&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" />
 
 </div>
 
@@ -240,7 +241,7 @@ class Linto:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lintothoppil&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lintothoppil&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
 
 </div>
 
